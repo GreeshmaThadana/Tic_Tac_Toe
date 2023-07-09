@@ -6,7 +6,7 @@ board =[                # for the elements of the board
 current_player="x"
 gameRunning=True
 winner = None
-#commiting changes to check
+#getting pichi
 # making the game board
 def printboard(board):
     print(board[0]+ " | "+board[1]+" | "+board[2]+"\n"+
@@ -27,6 +27,7 @@ def position(current_player):
         print("Enter a valid position")
 
 # check for win or tie
+# using 3 functions 
 
 def check_row(board):
     global winner
