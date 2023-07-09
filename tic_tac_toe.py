@@ -6,7 +6,7 @@ board =[                # for the elements of the board
 current_player="x"
 gameRunning=True
 winner = None
-
+#commiting changes to check
 # making the game board
 def printboard(board):
     print(board[0]+ " | "+board[1]+" | "+board[2]+"\n"+
