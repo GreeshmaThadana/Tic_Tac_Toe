@@ -85,7 +85,7 @@ def switch():
 
 # check for win or tie again
 
-
+# start execution from here
 while gameRunning:
     printboard(board)
     position(current_player)
