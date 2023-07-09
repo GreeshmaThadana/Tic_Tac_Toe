@@ -4,7 +4,7 @@ board =[                # for the elements of the board
     "-","-","-"
 ]
 current_player="x"
-gameRunning=True
+gameRunning= True
 winner = None
 
 # making the game board
