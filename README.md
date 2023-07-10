@@ -5,7 +5,7 @@ This project is a Python implementation of the classic Tic-Tac-Toe game, focusin
 Key Features:
 1. List-based board representation: The game board is represented using a list structure, allowing for easy manipulation and display of the game state.
 
-2. Player Turns: The game alternates between "X" and "O" players, and upon ensuring that there is no winner, the game switches to the other player ensuring fair gameplay and turn-based interaction.
+2. Player Turns: The game alternates between "X" and "O" players, and upon making sure that there is no winner, the game switches to the other player ensuring fair gameplay and turn-based interaction.
 
 3. Win/Tie Detection: The code includes functions to check for winning combinations in rows, columns, and diagonals of the game board. It also detects ties when no more moves are possible.
 
